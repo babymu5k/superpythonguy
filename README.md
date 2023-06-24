@@ -1,6 +1,6 @@
 # Hey there👋, Welcome to my small piece of the internet!
 
-<p>My name is superpythonguy aka Babymuskr.<br/>I am a developer who is confident in Python, HTML/CSS,<br/>The project I am kinda proud of is Madzcoin💲! A new Decentralised cryptocurrency written in Python!</p>
+<p>My name is superpythonguy aka Babymusk.<br/>I am a developer who is confident in Python, HTML/CSS,<br/>The project I am kinda proud of is Madzcoin💲! A new Decentralised cryptocurrency written in Python!</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superpythonguy&theme=tokyonight)
 [![Superpythonguy's GitHub stats](https://github-readme-stats.vercel.app/api?username=superpythonguy)](https://github.com/anuraghazra/github-readme-stats)
